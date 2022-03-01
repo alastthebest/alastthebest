@@ -19,3 +19,6 @@
 
 <img href="https://discord.com/users/697391819142594680" src="https://lanyard-profile-readme.vercel.app/api/697391819142594680" > 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alastthebest)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alastthebest&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
