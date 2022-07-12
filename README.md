@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm alast</h1>
-<h3 align="center"> Hi I'm alast! I am 15 years old and I'm currently working at Reponse App </h3>
+<h3 align="center"> Hi I'm alast! I am 15 years old</h3>
 
 - 🔭 I’m currently working on [Basit kişisel sayfa](https://github.com/alastthebest/basitwebpage)
 
