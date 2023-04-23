@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Basit kişisel sayfa](https://github.com/alastthebest/basitwebpage)
 
-- 💬 Ask me about **html , css**
+- 💬 Ask me about **Html , Css**
 
-- 📫 How to reach me **alastoffical@protonmail.com**
+- 📫 How to reach me **alastthebest@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
